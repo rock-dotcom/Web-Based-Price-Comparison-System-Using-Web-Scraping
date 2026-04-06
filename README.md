@@ -1,7 +1,7 @@
 # Web-Based-Price-Comparison-System-Using-Web-Scraping
  Problem Statement
 
-Customers must manually browse multiple e-commerce websites to compare product prices, which is time-consuming and may lead to poor purchasing decisions due to lack of real-time price comparison.
+Customers must manually browse multiple e-commerce platforms to compare product prices, which is time-consuming and inefficient. The lack of a unified system for real-time comparison can lead to poor purchasing decisions. Additionally, users face difficulty when searching for products without knowing exact names, especially for visually unique items, highlighting the need for an intelligent price comparison system with image-based search.
 
 # Project Overview
 PriceCompare AI is an intelligent system designed to:
